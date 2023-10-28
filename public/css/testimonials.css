@@ -1,0 +1,37 @@
+#carousel-testimonials .carousel-indicators {
+    bottom: inherit;
+    top: 20rem;
+}
+#carousel-testimonials .carousel-indicators li{ 
+    border :2px solid #7c8a8d; 
+    width:16px; 
+    height:16px;
+    margin:0px;
+    } 
+#carousel-testimonials .carousel-indicators .active {
+    width: 16px;
+    height: 16px;
+    margin: 0;
+    background-color: #ac1c20;
+    border :2px solid #ac1c20;
+}
+#carousel-testimonials .caption blockquote{
+    font-size:36px;
+    color:#282828;
+    
+}
+#carousel-testimonials .caption small cite{
+    color:#4a4f55;
+    font-size:20px;
+}
+#carousel-testimonials .caption #stars-existing{
+    display:inline-block;
+    font-size:28px;
+}
+#carousel-testimonials .caption #stars-existing .glyphicon-star-empty{
+    color:#ac1c20;
+}
+
+#carousel-testimonials .caption #stars-existing .glyphicon-star{
+    color:#ac1c20;
+}
